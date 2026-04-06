@@ -1,45 +1,121 @@
-# Hi there, I'm Apu Saha! 👋
-
-### 💫 About Me:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🎮 Fun fact: I love gaming and coding!
+<h1 align="center">Hi 👋, I'm Apu</h1>
+<h3 align="center">🚀 AI Developer | Python Specialist | Building Intelligent Systems</h3>
 
 ---
 
-### 🛠 Skills & Tech Stack:
-<p align="left">
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb,git,github,vscode,python" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Developer;Python+Specialist;Machine+Learning+Engineer;Building+AI+Products;Automation+Expert" />
+</p>
+
+---
+
+## 🧠 About Me  
+
+- 🔭 Building **AI-powered applications**  
+- 🤖 Working with **LLMs, Automation & AI Agents**  
+- 🧪 Strong focus on **R&D and innovation**  
+- 🤝 Collaborate with teams to deliver real-world solutions  
+- ⚡ Love solving complex problems with AI  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 👨‍💻 Language  
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### 🤖 AI / ML  
+<p>
+<img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM%20Integration-black?style=for-the-badge"/>
+</p>
+
+### ⚙️ Frameworks  
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch"/>
+<img src="https://img.shields.io/badge/FastAPI-teal?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Flask-black?style=for-the-badge"/>
+</p>
+
+### 🗄️ Database  
+<p>
+<img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql"/>
+</p>
+
+---
+
+## 🚀 Featured Projects  
+
+### 🧠 AI Fashion Recommendation System  
+- Image recognition + product matching  
+- AI-powered outfit detection  
+- Real-time suggestions  
+
+### ⚽ AI Sports Club Platform  
+- 17+ user roles  
+- Performance tracking  
+- Smart AI insights  
+
+### 🤖 AI Automation Tools  
+- Chatbots  
+- AI agents  
+- Workflow automation  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Most Used Languages  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=1&column=6"/>
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
 
 ---
 
-### 👾 My Contribution Snake:
-![snake gif](https://github.com/apusaha0011/apusaha0011/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apusaha0011&show_icons=true&theme=radical" alt="Apu's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apusaha0011&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+## 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apusaha0011&theme=radical" alt="Streak Stats" />
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-### 🏆 My Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=apusaha0011)](https://github.com/ryo-ma/github-profile-trophy)
+## ⚡ Fun Fact  
 
----
-
-### 📫 Connect with me:
-<p align="left">
-<a href="YOUR_LINKEDIN_URL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apusaha" height="30" width="40" /></a>
-<a href="YOUR_FACEBOOK_URL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="apusaha" height="30" width="40" /></a>
-</p>
+💡 I don’t just write code — I build **intelligence** into systems 🤖🔥  
