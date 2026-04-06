@@ -17,10 +17,7 @@
 
 🚀 Passionate AI Developer focused on building scalable AI solutions  
 
-- 🔭 Working on **AI-powered applications & automation**  
-- 🤖 Skilled in **LLMs, AI Agents & Backend Development**  
-- 🧪 Strong focus on **R&D and innovation**  
-- 🤝 Collaborating with teams to deliver real-world solutions  
+- 🔭 Working on **AI-powered applications & automation** - 🤖 Skilled in **LLMs, AI Agents & Backend Development** - 🧪 Strong focus on **R&D and innovation** - 🤝 Collaborating with teams to deliver real-world solutions  
 - ⚡ Turning ideas into intelligent systems  
 
 ---
@@ -50,10 +47,13 @@
 <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker"/>
 </p>
 
-### 🗄️ Database  
+### 🗄️ Database & Vector DBs
 <p>
-<img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb"/>
-<img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-0052FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Milvus-00BFFF?style=for-the-badge"/>
 </p>
 
 ---
@@ -80,8 +80,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apusaha0011&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apusaha0011&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=apusaha0011&show_icons=true&theme=tokyonight&count_private=true&v=2" alt="Apu Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apusaha0011&theme=tokyonight" alt="Apu Streak" />
 </p>
 
 ---
@@ -89,7 +89,7 @@
 ## 🧠 Most Used Languages  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apusaha0011&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apusaha0011&layout=compact&theme=tokyonight&v=2" alt="Top Langs" />
 </p>
 
 ---
@@ -97,7 +97,7 @@
 ## 🏆 Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=apusaha0011&theme=tokyonight&no-frame=true&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=apusaha0011&theme=tokyonight&no-frame=true&margin-w=10&v=2" alt="Trophies" />
 </p>
 
 ---
@@ -112,10 +112,6 @@
 <a href="mailto:apusaha0011@gmail.com">
 <img src="https://img.shields.io/badge/Email-apusaha0011%40gmail.com-red?style=for-the-badge&logo=gmail"/>
 </a>
-
-<a href="tel:+8801993286849">
-<img src="https://img.shields.io/badge/Phone-01993286849-green?style=for-the-badge"/>
-</a>
 </p>
 
 ---
@@ -123,11 +119,11 @@
 ## 🐍 Contribution Snake  
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/apusaha0011/apusaha0011/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/apusaha0011/apusaha0011/output/snake.svg" alt="Snake" />
 </p>
 
 ---
 
 ## ⚡ Fun Fact  
 
-💡 I don’t just write code — I build **intelligence into systems** 🤖🔥  
+💡 I don’t just write code — I build **intelligence into systems** 🤖🔥
