@@ -80,24 +80,7 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apusaha0011&show_icons=true&theme=tokyonight&count_private=true&v=2" alt="Apu Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=apusaha0011&theme=tokyonight" alt="Apu Streak" />
-</p>
-
----
-
-## 🧠 Most Used Languages  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apusaha0011&layout=compact&theme=tokyonight&v=2" alt="Top Langs" />
-</p>
-
----
-
-## 🏆 Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=apusaha0011&theme=tokyonight&no-frame=true&margin-w=10&v=2" alt="Trophies" />
 </p>
 
 ---
